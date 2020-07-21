@@ -1,0 +1,7 @@
+#2.0#2020 07 21 17:48:25:808#+05:30#INFO#/Application#####kcvwm7wz##########kcvwm7wz#PLAIN##{
+  applicationName: 'ms1',
+  serviceName: 'ms1111',
+  severtiLevel: 'info',
+  isTrace: false,
+  message: 'check'
+}#

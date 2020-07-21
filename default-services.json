@@ -1,0 +1,14 @@
+{
+  "xsuaa": [
+    {
+      "credentials": {
+        "clientid": "sb-TRP!i9",
+        "clientsecret": "Wdh9KvtDOtXTD99fK+uib0xhkg7tBTOIJz6vaJXvGTCE57W+VMU9U7nEVO5/efpnUtPdbWIzBkht\ngRsjNriHJw==",
+        "url": "https://gcl0139.wdf.sap.corp:31032/uaa-security",
+        "xsappname": "TRP!i9"
+      },
+      "label": "xsuaa",
+      "tags": ["xsuaa"]
+    }
+  ]
+}

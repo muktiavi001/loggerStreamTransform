@@ -1,0 +1,2 @@
+#2.0#2020 07 20 17:36:24:365#+05:30#INFO#/Application/Network#####kcugqwkt##########kcugqwkt#PLAIN##check#
+log req data from console.
